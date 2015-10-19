@@ -1,0 +1,23 @@
+version 2
+run AutonomyTest-0-20150727-20:56:12-15777
+attr configname AutonomyTest
+attr datetime 20150727-20:56:12
+attr experiment AutonomyTest
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network SkyNet
+attr processid 15777
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar SkyNet.node[0].nic.mac 	nbBackoffs 	2
+scalar SkyNet.node[0].nic.mac 	backoffDurations 	2.6684023583308
+scalar SkyNet.node[0].nic.mac 	nbTxFrames 	1
+scalar SkyNet.node[1].nic.mac 	nbBackoffs 	2
+scalar SkyNet.node[1].nic.mac 	backoffDurations 	2.3959311447106
+scalar SkyNet.node[1].nic.mac 	nbTxFrames 	1
